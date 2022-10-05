@@ -1,6 +1,6 @@
 # World-Economics-Data
 
-# This project is about doing analysis on the World Economics Data. The factors such as Corruption , Tourism,Unemployment and Cost of Living how it affects Economics and also doing comparision in between countries.
+This project is about doing analysis on the World Economics Data. The factors such as Corruption , Tourism,Unemployment and Cost of Living how it affects Economics and also doing comparision in between countries.
 
 ## The Files that were used in this project
 
